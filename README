@@ -53,3 +53,8 @@ Embeddings :
     Embeddings are numerical representation of text.
     They are essential for AI models to understand and work with human language effectively.
 Fine-tuning a LLM: Is the process of adapting a pre-trained model to perform specific tasks or to cater to a particular domain more effectively.
+
+Retails: Give large data and take summary from that.
+Marketing: Create Content.(like Emails, Blogs, Images, Articals, Product description etc)
+
+![1712586782495](image/README/1712586782495.png)
