@@ -1,0 +1,55 @@
+Generate Text- ChatGPT
+Generate Image- Dall-E
+Generate Code- GitHub CoPilot
+
+Generative Artificial Intelligence (Gen AI) is a type of AI that can create new content, such as audio, images, text, code, videos etc.Is a subset of Deep Learning.
+
+Artificial Intelligence:
+                        Is a broad field of computer science that focuses on creating intelligent systems capable of performing tasks that typically reqires human intelligence.
+
+    Machine Learning: 
+                    Is a subset of AI that focuses on the development of algorithms
+                    and models that enable computer to learn and make predictions or decisions without explicit programming.
+
+                    Need:
+                        Lot of training data.
+                        Computational power.
+
+        Deep Learning:
+                    Is a subset of machine learning that focuses on teaching computers to learn and make decisions by processing data through neural networks inspired by the human brain.
+                    Human Brain(neurons)->Neural Network Layers.(Multilayer Structure)
+
+Machines need to be trained on large volume of data.
+Shift to conversational, contextual understanding.
+
+ChatGPT: 
+       is a language model developed by OpenAI. It is designed for natural language understanding and generation, specifically in a conversational context(History Maintain).
+       Trained on billions of documents.(Increase Accuracy)
+       Based on Generative Pre-Trained Transformer(GPT) architecture, a type of neural network.
+       Web interface for end-users, API for developers.
+                            **-----Gen AI------**
+Large Language Models(LLMs)(Deals Only with Text):
+                           Are powerful artificial intelligence models designed for understanding and generating human-like text.
+    Key Points on LLM:
+       Pre-training - Trained on huge corpus of data.
+       Size and scale - Massive Neural Networks.
+       Fine-Tuning - More "Targeted" training for specific tasks.
+    Use Cases for LLM:
+      Content generation
+	  Chatbots and virtual assistants
+	  Language translation
+	  Text summarization
+	  Q & A
+Prompt Engineering: 
+    Prompt engineering is the process of crafting well-defined and structured input queries to interact with AI systems, in order to get accurate and relevant responses.        
+        A prompt is a specific quesions, command or input that you provide to an AI system to request a particular response, information or action.(Example. How's the weather?)
+    Best Practice for Prompt Engineering:
+        Clearly convey the desired response.
+        Provide context or background information.
+        Balance simplicity and complexity.
+        Iterative testing and refinement
+Machines do not understand text they only understand numbers.
+Embeddings :
+    Embeddings are numerical representation of text.
+    They are essential for AI models to understand and work with human language effectively.
+Fine-tuning a LLM: Is the process of adapting a pre-trained model to perform specific tasks or to cater to a particular domain more effectively.
