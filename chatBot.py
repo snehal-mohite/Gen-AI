@@ -8,7 +8,7 @@ from langchain_community.chat_models import ChatOpenAI
 #langchain: Interface to use OpenAI services
 
 
-OPENAI_API_KEY = "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" #Pass your key here
+OPENAI_API_KEY = "OPENAI_API_KEY" #Pass your key here example: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
 
 #Upload PDF files
 st.header("My first Chatbot")
