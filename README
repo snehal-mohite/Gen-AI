@@ -58,3 +58,4 @@ Retails: Give large data and take summary from that.
 Marketing: Create Content.(like Emails, Blogs, Images, Articals, Product description etc)
 
 ![1712586782495](image/README/1712586782495.png)
+Run ChatBot.py file using CMD:streamlit run chatBot.py  
